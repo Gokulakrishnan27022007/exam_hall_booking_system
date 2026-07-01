@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exam Hall Management System</title>
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div class="hero-bar">
+        <div>
+          <p class="eyebrow">Anna University Style Portal</p>
+          <h1>Exam Hall Management System</h1>
+          <p>Select your portal, sign in, manage halls, assign representatives, approve bookings, and track schedules in one place.</p>
+          <p class="eyebrow">Build 2026-03-31 UI Refresh</p>
+        </div>
+        <div class="hero-actions">
+          <button id="themeToggle" class="theme-btn" type="button">Toggle Theme</button>
+        </div>
+      </div>
+    </header>
+    <section class="portal-grid" id="portalGrid">
+      <button class="portal-card" data-portal="student">Student / Representative</button>
+      <button class="portal-card" data-portal="faculty">Faculty Advisor</button>
+      <button class="portal-card" data-portal="admin">Admin</button>
+    </section>
+    <section class="card hidden" id="authCard">
+      <div class="topbar">
+        <h2 id="authTitle">Login</h2>
+        <button id="backToPortals" class="secondary">Back</button>
+      </div>
+
+      <form id="adminLogin" class="hidden">
+        <input name="adminId" placeholder="Admin ID" required>
+        <input name="password" type="password" placeholder="Password" required>
+        <button>Login</button>
+      </form>
+
+      <form id="facultyLogin" class="hidden">
+        <input name="staffId" placeholder="Staff ID" required>
+        <input name="password" type="password" placeholder="Password" required>
+        <button>Login</button>
+      </form>
+
+      <form id="studentLogin" class="hidden">
+        <input name="rollNo" placeholder="Roll Number" required>
+        <input name="password" type="password" placeholder="Password" required>
+        <button>Login</button>
+      </form>
+
+      <div id="registerSwitch" class="hidden auth-foot">
+        <button id="showRegister" type="button" class="link-btn">No account? Register</button>
+      </div>
+
+      <form id="studentRegister" class="hidden">
+        <input name="name" placeholder="Name" required>
+        <input name="rollNo" placeholder="Roll Number" required>
+        <input name="department" placeholder="Department" required>
+        <input name="semester" type="number" placeholder="Semester" required>
+        <input name="password" type="password" placeholder="Password" required>
+        <button>Register</button>
+      </form>
+    </section>
+    <section class="card hidden" id="dashboardCard">
+      <div class="topbar">
+        <h2 id="dashboardTitle">Dashboard</h2>
+        <div class="profile-menu-wrap">
+          <button id="profileMenuBtn" class="profile-btn" type="button">Profile</button>
+          <div id="profileMenu" class="profile-menu hidden">
+            <button id="themeToggleMenu" type="button">Toggle Light / Dark</button>
+            <button id="logoutBtn" type="button">Logout</button>
+          </div>
+        </div>
+      </div>
+      <div id="dashboardContent"></div>
+    </section>
+  </div>
+  <script src="/assets/js/app.js"></script>
+</body>
+</html>

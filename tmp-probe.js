@@ -1,0 +1,1 @@
+const https=require('https');const url='https://cac.annauniv.edu/uddetails/udpg_2023/FICE/M.C.A.pdf';https.get(url,{headers:{'user-agent':'Mozilla/5.0'}},res=,res.statusCode);console.log('type',res.headers['content-type']);res.resume();}).on('error',e=,e.message,e.code);if(e.cause) console.log(e.cause);}); 

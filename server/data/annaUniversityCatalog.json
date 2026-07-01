@@ -1,0 +1,2306 @@
+{
+  "CSE": {
+    "department": "CSE",
+    "regulation": "Anna University Regulations 2023 (Revised 2024)",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udug_2023_revision/ICE/B.E.%20CSE.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "EN23C01",
+          "courseName": "Foundation English",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C01",
+          "courseName": "Matrices and Calculus",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH23C01",
+          "courseName": "Engineering Physics",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "EE23C02",
+          "courseName": "Fundamentals of Electrical and Electronics Engineering",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CS23C04",
+          "courseName": "Programming in C",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CS23101",
+          "courseName": "Computational Thinking",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "UC23H01",
+          "courseName": "தமிழர்மரபு/ Heritage of Tamils",
+          "category": "UC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "EN23C02",
+          "courseName": "Professional Communication",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C04",
+          "courseName": "Discrete Mathematics",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CY23C01",
+          "courseName": "Engineering Chemistry",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "ME23C01",
+          "courseName": "Engineering Drawing and 3DModelling",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "ME23C04",
+          "courseName": "Makerspace",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "UC23H02",
+          "courseName": "Tamils and Technology",
+          "category": "UC"
+        },
+        {
+          "courseCode": "CS23201",
+          "courseName": "Object Oriented Programming",
+          "category": "PCC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "MA23C05",
+          "courseName": "Probability and Statistics",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CS23301",
+          "courseName": "Software Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23302",
+          "courseName": "Data Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23303",
+          "courseName": "Digital System Design",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CS23304",
+          "courseName": "Java Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23U01",
+          "courseName": "Standards - Computer Science & Engg.",
+          "category": "UC"
+        },
+        {
+          "courseCode": "UC23U01",
+          "courseName": "Universal Human Values",
+          "category": "UC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "MA23C03",
+          "courseName": "Linear Algebra and Numerical Methods",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CS23401",
+          "courseName": "Database Management Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23402",
+          "courseName": "Computer Architecture",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23403",
+          "courseName": "Full Stack Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23404",
+          "courseName": "Design and Analysis of Algorithms",
+          "category": "PCC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "CS23501",
+          "courseName": "Operating Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23502",
+          "courseName": "Networks and Data Communication",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23503",
+          "courseName": "Theory of Computation",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23L01",
+          "courseName": "Self Learning Course",
+          "category": "SLC"
+        },
+        {
+          "courseCode": "UC23E01",
+          "courseName": "Engineering Entrepreneurship Development",
+          "category": "UC"
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "CS23601",
+          "courseName": "Cryptography and System Security",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23602",
+          "courseName": "Compiler Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23603",
+          "courseName": "Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CS23U02",
+          "courseName": "Perspectives of Sustainability Development",
+          "category": "UC"
+        },
+        {
+          "courseCode": "CS23604",
+          "courseName": "Creative and Innovative Project",
+          "category": "SDC"
+        }
+      ],
+      "7": [],
+      "8": [
+        {
+          "courseCode": "CS23801",
+          "courseName": "Project Work / Internship cum Project Work",
+          "category": "SDC"
+        }
+      ]
+    }
+  },
+  "IT": {
+    "department": "IT",
+    "regulation": "Anna University Regulations 2023 (Revised 2024)",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udug_2023_revision/ICE/B.Tech.%20IT.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "EN23C01",
+          "courseName": "Foundation English",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C01",
+          "courseName": "Matrices and Calculus",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH23C01",
+          "courseName": "Engineering Physics",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "ME23C01",
+          "courseName": "Engineering Drawing and 3D Modeling",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "EE23C02",
+          "courseName": "Fundamentals of Electrical and Electronics Engineering",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "ME23C04",
+          "courseName": "Makerspace",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "UC23H01",
+          "courseName": "தமிழர்மரபு/ Heritage of Tamils",
+          "category": "UC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "EN23C02",
+          "courseName": "Professional Communication",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C03",
+          "courseName": "Linear Algebra and Numerical Methods",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH23C08",
+          "courseName": "Fundamentals of Electronic Materials and Devices",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CY23C01",
+          "courseName": "Engineering Chemistry",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CS23C04",
+          "courseName": "Programming in C",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "IT23201",
+          "courseName": "Information Technology Essentials",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "UC23H02",
+          "courseName": "தமிழரும் ததொழில்நுட்பமும் / Tamils and Technology",
+          "category": "UC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "MA23C09",
+          "courseName": "Finite State Automata and Discrete Structures",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "IT23301",
+          "courseName": "Digital Logic and Design",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "IT23302",
+          "courseName": "Data Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23303",
+          "courseName": "Database Management Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23304",
+          "courseName": "Object Oriented Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23U01",
+          "courseName": "Standards - IT",
+          "category": "UC"
+        },
+        {
+          "courseCode": "UC23U01",
+          "courseName": "Universal Human Values",
+          "category": "UC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "MA23C05",
+          "courseName": "Probability and Statistics",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "IT23401",
+          "courseName": "Advanced Data Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23C01",
+          "courseName": "Design and Analysis of Algorithms",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23402",
+          "courseName": "Computer Organization and Architecture",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23403",
+          "courseName": "Software Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23C02",
+          "courseName": "Operating Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23L01",
+          "courseName": "Self-Learning Course",
+          "category": "SLC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "IT23501",
+          "courseName": "Computer Networks",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23502",
+          "courseName": "Web Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23503",
+          "courseName": "Compiler Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23504",
+          "courseName": "Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "UC23E01",
+          "courseName": "Engineering Entrepreneurship Development",
+          "category": "EDS"
+        },
+        {
+          "courseCode": "IT23505",
+          "courseName": "Societal Oriented Project",
+          "category": "SDC"
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "IT23601",
+          "courseName": "Distributed Systems and Computing",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23602",
+          "courseName": "Natural Language and Image Processing",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23U02",
+          "courseName": "Perspectives of Sustainability Development",
+          "category": "UC"
+        }
+      ],
+      "7": [
+        {
+          "courseCode": "IT23701",
+          "courseName": "Cryptography and Network Security",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IT23702",
+          "courseName": "Software Development Project Laboratory",
+          "category": "SDC"
+        }
+      ],
+      "8": [
+        {
+          "courseCode": "IT23801",
+          "courseName": "Project Work / Internship cum Project Work",
+          "category": "SDC"
+        }
+      ]
+    }
+  },
+  "ECE": {
+    "department": "ECE",
+    "regulation": "Anna University Regulations 2023 (Revised 2024)",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udug_2023_revision/ECE/B.E.%20ECE.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "EN23C01",
+          "courseName": "Foundation English",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C01",
+          "courseName": "Matrices and Calculus",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH23C01",
+          "courseName": "Engineering Physics",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "ME23C01",
+          "courseName": "Engineering Drawing and 3D Modelling",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "CS23C04",
+          "courseName": "Programming in C",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "ME23C04",
+          "courseName": "Maker space",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "UC23H01",
+          "courseName": "தமிழர்மரபு/HeritageofTamils",
+          "category": "UC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "EN23C02",
+          "courseName": "Professional Communication",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C02",
+          "courseName": "Ordinary Differential Equations and Transform Techniques",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "EC23C03",
+          "courseName": "Electronic Devices",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CY23C01",
+          "courseName": "Engineering Chemistry",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "EC23C06",
+          "courseName": "Data Structures and Programming in C++",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "EC23C04",
+          "courseName": "Circuit Analysis",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "UC23H02",
+          "courseName": "தமிழரும் ததொழில் நுட்பமும்/Tamils and Technology",
+          "category": "UC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "MA23C03",
+          "courseName": "Linear Algebra and Numerical Methods",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "EC23301",
+          "courseName": "Electromagnetic Fields",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23C13",
+          "courseName": "Digital Electronics and System Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23302",
+          "courseName": "Signals and Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23C02",
+          "courseName": "Analog Circuits Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "UC23U01",
+          "courseName": "Universal Human Values",
+          "category": "UC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "EC23401",
+          "courseName": "Digital Signal Processing",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23402",
+          "courseName": "Transmission Lines",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23403",
+          "courseName": "Analog and Baseband Communication",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23C05",
+          "courseName": "Analog Electronic System Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23C10",
+          "courseName": "Computer Architecture and Organization",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23C11",
+          "courseName": "Control Systems",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "EC23L01",
+          "courseName": "Self Learning Course",
+          "category": "SLC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "EC23501",
+          "courseName": "Antenna and Wave Propagation",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23502",
+          "courseName": "Digital Communication",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23C21",
+          "courseName": "Microprocessors and Microcontrollers",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23503",
+          "courseName": "Communication Networks",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "UC23E01",
+          "courseName": "Engineering Entrepreneurship Development",
+          "category": "UC"
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "EC23C14",
+          "courseName": "Digital VLSI Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23601",
+          "courseName": "Wireless Communications",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23602",
+          "courseName": "Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23U02",
+          "courseName": "Perspectives of Sustainable Development",
+          "category": "UC"
+        }
+      ],
+      "7": [
+        {
+          "courseCode": "EC23701",
+          "courseName": "Millimeter Wave and Optical Communication",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EC23702",
+          "courseName": "Mini Project",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "EC23703",
+          "courseName": "Industry Oriented Course III/ Summer Internship- II*** T /",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "EC23U01",
+          "courseName": "Standards - Electronics and Communication Engineering T 1-0-0 1 1 UC TotalCredits 23 Courses for Honours Degree S. No. Course Code CourseName Course Type# Periods / Week Credits Category L-T-P TCP*",
+          "category": ""
+        },
+        {
+          "courseCode": "EC23D03",
+          "courseName": "Capstone Project Phase II - (Product Development - Publication / Patent Submission) CDP 0-0-12 12 6 SDC (OR)",
+          "category": ""
+        }
+      ],
+      "8": [
+        {
+          "courseCode": "EC23801",
+          "courseName": "Project Work /Internship cum Project Work",
+          "category": "SDC"
+        }
+      ]
+    }
+  },
+  "EEE": {
+    "department": "EEE",
+    "regulation": "Anna University Regulations 2023 (Revised 2024 - Version I)",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udug_2023_revision/EEE/Version%20I/EEE%20R2023_6.8.2024.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "EN23C01",
+          "courseName": "Foundation English",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C01",
+          "courseName": "Matrices and Calculus",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH23C01",
+          "courseName": "Engineering Physics",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "ME23C01",
+          "courseName": "Engineering Drawing and 3D modeling",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "ME23C05",
+          "courseName": "Basics of Mechanical Engineering",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CE23C03",
+          "courseName": "Basic Civil Engineering",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "UC23H01",
+          "courseName": "தமிழர்மரபு/ Heritage of Tamils",
+          "category": "UC"
+        },
+        {
+          "courseCode": "ME23C04",
+          "courseName": "Makerspace",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "UC23P01",
+          "courseName": "NCC/NSS/NSO/YRC",
+          "category": "UC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "EN23C02",
+          "courseName": "Professional Communication",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C02",
+          "courseName": "Ordinary Differential Equations and Transform Techniques",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CY23C01",
+          "courseName": "Engineering Chemistry",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH23C10",
+          "courseName": "Electronic Properties of Materials",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CS23C04",
+          "courseName": "Programming in C",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "ME23C03",
+          "courseName": "Engineering Mechanics",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "UC23H02",
+          "courseName": "/ Tamils and Technology",
+          "category": "UC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "MA23C03",
+          "courseName": "Linear Algebra and Numerical Methods",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "EE23301",
+          "courseName": "Electrical Circuit Analysis",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23302",
+          "courseName": "Electromagnetic Theory",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23303",
+          "courseName": "Digital Electronics",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23304",
+          "courseName": "Analog Electronics",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "UC23U01",
+          "courseName": "Universal Human Values",
+          "category": "UC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "EE23401",
+          "courseName": "Signal and Systems for Electrical Engineers",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "EE23402",
+          "courseName": "Electrical Machines - I",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23403",
+          "courseName": "Measurement and Instrumentation",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23404",
+          "courseName": "Microprocessors and Microcontrollers",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23405",
+          "courseName": "Transmission and Distribution",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23406",
+          "courseName": "Electrical Machines Laboratory - I",
+          "category": "PCC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "EE23501",
+          "courseName": "Electrical Machines - II",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23502",
+          "courseName": "Control Systems Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23503",
+          "courseName": "Power System Analysis",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23504",
+          "courseName": "Power Electronics",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "UC23E01",
+          "courseName": "Entrepreneurship Development Course",
+          "category": "UC"
+        },
+        {
+          "courseCode": "EE23505",
+          "courseName": "Electrical Machines Laboratory - II",
+          "category": "PCC"
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "EE23601",
+          "courseName": "Power System Operation and Control",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23602",
+          "courseName": "Protection and Switchgear",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23U02",
+          "courseName": "Sustainable Development - Electrical Engineering",
+          "category": "UC"
+        }
+      ],
+      "7": [
+        {
+          "courseCode": "EE23701",
+          "courseName": "High Voltage Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "EE23U01",
+          "courseName": "Standards - Electrical Engineering",
+          "category": "UC"
+        }
+      ],
+      "8": [
+        {
+          "courseCode": "EE23801",
+          "courseName": "Project Work / Internship cum Project Work",
+          "category": "SDC"
+        }
+      ]
+    }
+  },
+  "CIVIL": {
+    "department": "CIVIL",
+    "regulation": "Anna University Regulations 2023 (Revised 2024)",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udug_2023_revision/Civil/B.E.%20Civil%20Engineering.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "EN23C01",
+          "courseName": "Foundation English",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C01",
+          "courseName": "Matrices and Calculus",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CY23C01",
+          "courseName": "Engineering Chemistry",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "EE23C02",
+          "courseName": "Fundamentals of Electrical and Electronics Engineering",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "ME23C01",
+          "courseName": "Engineering Drawing and 3D Modelling",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "ME23C04",
+          "courseName": "Makerspace",
+          "category": "SDC"
+        },
+        {
+          "courseCode": "UC23H01",
+          "courseName": "தமிழர் மரபு / Heritage of Tamils",
+          "category": "UC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "EN23C02",
+          "courseName": "Professional Communication",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA23C02",
+          "courseName": "Ordinary Differential Equations and Transform Techniques",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH23C01",
+          "courseName": "Engineering Physics",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CS23C04",
+          "courseName": "Programming in C",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GY23C01",
+          "courseName": "Engineering Geology",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "ME23C03",
+          "courseName": "Engineering Mechanics",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "UC23H02",
+          "courseName": "தமிழரும் ததொழில்நுட்பமும் / Tamils and Technology",
+          "category": "UC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "CE23301",
+          "courseName": "Strength of Materials - I",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23302",
+          "courseName": "Construction Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23303",
+          "courseName": "Fluid Mechanics",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23304",
+          "courseName": "Railways, Airports and Harbour Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23305",
+          "courseName": "Water Supply Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23C04",
+          "courseName": "Principles of Surveying",
+          "category": "ESC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "CE23401",
+          "courseName": "Strength of Materials - II",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23402",
+          "courseName": "Soil Mechanics",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23403",
+          "courseName": "Applied Hydraulic Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23404",
+          "courseName": "Highway Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23405",
+          "courseName": "Waste Water Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23U01",
+          "courseName": "Standards - Civil Engineering",
+          "category": "UC"
+        },
+        {
+          "courseCode": "UC23U01",
+          "courseName": "Universal Human Values",
+          "category": "UC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "CE23501",
+          "courseName": "Structural Analysis - I",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23502",
+          "courseName": "Design of Reinforced Cement Concrete Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23503",
+          "courseName": "Foundation Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23504",
+          "courseName": "Environmental Engineering Drawing",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "CE23U02",
+          "courseName": "Perspectives of Sustainable Development T 2-0-2 4 3 -",
+          "category": ""
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "CE23601",
+          "courseName": "Structural Analysis - II",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23602",
+          "courseName": "Design of Steel Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23603",
+          "courseName": "Building and Structural Drawing",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "UC23E01",
+          "courseName": "Engineering Entrepreneurship Development",
+          "category": "UC"
+        }
+      ],
+      "7": [
+        {
+          "courseCode": "CE23701",
+          "courseName": "Irrigation Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23702",
+          "courseName": "Estimation, Costing and Valuation Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CE23L01",
+          "courseName": "Self-Learning Course$ - - - 1 SLC",
+          "category": ""
+        }
+      ],
+      "8": [
+        {
+          "courseCode": "CE23801",
+          "courseName": "Project Work / Internship cum Project Work",
+          "category": "SDC"
+        }
+      ]
+    }
+  },
+  "MECH": {
+    "department": "MECH",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udug_2023/Mech/5.%20B.E%20Mech.%20Engg..pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "HS3151",
+          "courseName": "English for Communication - I",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA3151",
+          "courseName": "Matrices and Calculus",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "PH3151",
+          "courseName": "Engineering Physics",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "CY3151",
+          "courseName": "Engineering Chemistry",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "GE3155",
+          "courseName": "Engineering Drawing",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GE3154",
+          "courseName": "தமிழர்மரபு/Heritage of Tamils",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "GE3161",
+          "courseName": "Engineering Practices Laboratory",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GE3162",
+          "courseName": "English Laboratory - I$",
+          "category": "EEC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "HS3251",
+          "courseName": "English for Communication- II",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA3251",
+          "courseName": "Ordinary Differential Equations and Transform Techniques",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "ME3251",
+          "courseName": "Design Thinking",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GE3152",
+          "courseName": "Problem Solving and Python Programming",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GE3151",
+          "courseName": "Engineering Mechanics",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "EE3151",
+          "courseName": "Basics of Electrical and Electronics Engineering",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GE3251",
+          "courseName": "தமிழரும் ததொழில்நுட்பமும்/ Tamils and Technology",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH3161",
+          "courseName": "Physics Laboratory",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "GE3261",
+          "courseName": "English Laboratory - II$",
+          "category": "EEC"
+        }
+      ]
+    }
+  },
+  "AIDS": {
+    "department": "AIDS",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udug_2023/ICE/B.Tech.AIDS.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "HS3151",
+          "courseName": "English for Communication - I",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA3151",
+          "courseName": "Matrices and Calculus",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "PH3151",
+          "courseName": "Engineering Physics",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "CY3151",
+          "courseName": "Engineering Chemistry",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "AZ3101",
+          "courseName": "Basics of Electronics",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GE3153",
+          "courseName": "Programming in C",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "GE3154",
+          "courseName": "தமிழர்மரபு /Heritage of Tamils",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "PH3161",
+          "courseName": "Physics Laboratory",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "GE3162",
+          "courseName": "English Laboratory - I$",
+          "category": "EEC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "HS3251",
+          "courseName": "English for Communication - II",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "MA3251",
+          "courseName": "Ordinary Differential Equations and Transform Techniques",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "PH3252",
+          "courseName": "Semiconductor Devices and Quantum Technology",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "GE3155",
+          "courseName": "Engineering Drawing",
+          "category": "ESC"
+        },
+        {
+          "courseCode": "AZ3201",
+          "courseName": "Object Oriented Programming and Data Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "GE3251",
+          "courseName": "தமிழரும் ததொழில்நுட்பமும் / Tamils and Technology",
+          "category": "HSMC"
+        },
+        {
+          "courseCode": "CY3161",
+          "courseName": "Chemistry Laboratory",
+          "category": "BSC"
+        },
+        {
+          "courseCode": "GE3261",
+          "courseName": "English Laboratory - II$",
+          "category": "EEC"
+        }
+      ]
+    }
+  },
+  "M.Sc Computer Science (Integrated)": {
+    "department": "M.Sc Computer Science (Integrated)",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udpg_2023/SANDH/M.Sc.%20(5%20yrs)%20CS.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "HS3152",
+          "courseName": "Communicative English - I",
+          "category": "FC"
+        },
+        {
+          "courseCode": "MA3162",
+          "courseName": "Matrices and Calculus",
+          "category": "FC"
+        },
+        {
+          "courseCode": "PH3152",
+          "courseName": "Applied Physics",
+          "category": "FC"
+        },
+        {
+          "courseCode": "CY3152",
+          "courseName": "Chemistry of Materials",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XC3151",
+          "courseName": "Digital Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3152",
+          "courseName": "Problem Solving and C Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "GE3163",
+          "courseName": "Computer Aided Engineering Drawing Laboratory",
+          "category": "FC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "HS3252",
+          "courseName": "Communicative English - II",
+          "category": "FC"
+        },
+        {
+          "courseCode": "EE3151",
+          "courseName": "Basic Electrical and Electronics Engineering",
+          "category": "FC"
+        },
+        {
+          "courseCode": "MA3253",
+          "courseName": "Ordinary Differential Equations and Transform Techniques",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3251",
+          "courseName": "Python Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3251",
+          "courseName": "Data Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3252",
+          "courseName": "Computer Architecture",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3261",
+          "courseName": "Data Structures Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "MA3351",
+          "courseName": "Partial Differential Equations and Complex Functions",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3351",
+          "courseName": "Object-Oriented Programming using C++",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3352",
+          "courseName": "Database Management Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3351",
+          "courseName": "Operating Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3352",
+          "courseName": "Microprocessor and Applications",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3353",
+          "courseName": "Principles of Analog and Digital Communication Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3361",
+          "courseName": "Database Management Systems Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "MA3451",
+          "courseName": "Discrete Structures",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XC3401",
+          "courseName": "Algebra and Number Theory",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3451",
+          "courseName": "Software Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3452",
+          "courseName": "Java Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3451",
+          "courseName": "Computer Networks",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CY3251",
+          "courseName": "Environmental Science and Sustainability",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3461",
+          "courseName": "Java Programming Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "MA3551",
+          "courseName": "Probability and Statistics",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XC3501",
+          "courseName": "Cryptography and Data Security",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3551",
+          "courseName": "Data Warehousing and Mining",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3552",
+          "courseName": "Web Technology",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3551",
+          "courseName": "Theory of Computation",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3561",
+          "courseName": "Web Technology Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "MA3651",
+          "courseName": "Operations Research",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XC3601",
+          "courseName": "Compiler Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3651",
+          "courseName": "Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3651",
+          "courseName": "Design and Analysis of Algorithms",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3652",
+          "courseName": "Cloud Computing",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3611",
+          "courseName": "Mini Project",
+          "category": "EEC"
+        }
+      ],
+      "7": [
+        {
+          "courseCode": "XC3711",
+          "courseName": "Industrial Project",
+          "category": "EEC"
+        }
+      ],
+      "8": [
+        {
+          "courseCode": "MA3851",
+          "courseName": "Advanced Statistical Methods for Computing",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XC3801",
+          "courseName": "Networking Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3851",
+          "courseName": "Principles of Management and Behavioural Sciences",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3851",
+          "courseName": "Artificial Intelligence",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3852",
+          "courseName": "Cyber Security",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3861",
+          "courseName": "Statistical Programming Laboratory using R and Python",
+          "category": "PCC"
+        }
+      ],
+      "9": [
+        {
+          "courseCode": "MA3951",
+          "courseName": "Numerical Methods",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3951",
+          "courseName": "Internet of Things",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3901",
+          "courseName": "Digital Forensics",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3951",
+          "courseName": "Multimedia Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3961",
+          "courseName": "Internet of Things Laboratory",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3911",
+          "courseName": "Creative and Innovative Project",
+          "category": "EEC"
+        }
+      ],
+      "10": [
+        {
+          "courseCode": "XC3011",
+          "courseName": "Project Work",
+          "category": "EEC"
+        }
+      ]
+    }
+  },
+  "M.Sc Information Technology (Integrated)": {
+    "department": "M.Sc Information Technology (Integrated)",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udpg_2023/SANDH/M.Sc.%20(5%20yrs)%20IT.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "HS3152",
+          "courseName": "Communicative English - I",
+          "category": "FC"
+        },
+        {
+          "courseCode": "MA3162",
+          "courseName": "Matrices and Calculus",
+          "category": "FC"
+        },
+        {
+          "courseCode": "PH3152",
+          "courseName": "Applied Physics",
+          "category": "FC"
+        },
+        {
+          "courseCode": "CY3152",
+          "courseName": "Chemistry of Materials",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XC3151",
+          "courseName": "Digital Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3152",
+          "courseName": "Problem Solving and C Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "GE3163",
+          "courseName": "Computer Aided Engineering Drawing Laboratory",
+          "category": "FC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "HS3252",
+          "courseName": "Communicative English - II",
+          "category": "FC"
+        },
+        {
+          "courseCode": "EE3151",
+          "courseName": "Basic Electrical and Electronics Engineering",
+          "category": "FC"
+        },
+        {
+          "courseCode": "MA3253",
+          "courseName": "Ordinary Differential Equations and Transform Techniques",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3251",
+          "courseName": "Python Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3251",
+          "courseName": "Data Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3252",
+          "courseName": "Computer Architecture",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3261",
+          "courseName": "Data Structures Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "MA3351",
+          "courseName": "Partial Differential Equations and Complex Functions",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3351",
+          "courseName": "Object-Oriented Programming using C++",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3352",
+          "courseName": "Database Management Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3351",
+          "courseName": "Operating Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3352",
+          "courseName": "Microprocessor and Applications",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3353",
+          "courseName": "Principles of Analog and Digital Communication Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3361",
+          "courseName": "Database Management Systems Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "MA3451",
+          "courseName": "Discrete Structures",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3401",
+          "courseName": "Linear Algebra",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3451",
+          "courseName": "Software Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3452",
+          "courseName": "Java Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3451",
+          "courseName": "Computer Networks",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CY3251",
+          "courseName": "Environmental Science and Sustainability",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3461",
+          "courseName": "Java Programming Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "MA3551",
+          "courseName": "Probability and Statistics",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3501",
+          "courseName": "Object Oriented Analysis and Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3551",
+          "courseName": "Data Warehousing and Mining",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3552",
+          "courseName": "Web Technology",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3551",
+          "courseName": "Theory of Computation",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3561",
+          "courseName": "Web Technology Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "MA3651",
+          "courseName": "Operations Research",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3601",
+          "courseName": "Software Project Management",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3651",
+          "courseName": "Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3651",
+          "courseName": "Design and Analysis of Algorithms",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3652",
+          "courseName": "Cloud Computing",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3611",
+          "courseName": "Mini Project",
+          "category": "EEC"
+        }
+      ],
+      "7": [
+        {
+          "courseCode": "XT3711",
+          "courseName": "Industrial Project",
+          "category": "EEC"
+        }
+      ],
+      "8": [
+        {
+          "courseCode": "MA3851",
+          "courseName": "Advanced Statistical Methods for Computing",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3801",
+          "courseName": "Advanced Networks",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3851",
+          "courseName": "Principles of Management and Behavioural Sciences",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3851",
+          "courseName": "Artificial Intelligence",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3852",
+          "courseName": "Cyber Security",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3861",
+          "courseName": "Statistical Programming Laboratory using R and Python",
+          "category": "PCC"
+        }
+      ],
+      "9": [
+        {
+          "courseCode": "MA3951",
+          "courseName": "Numerical Methods",
+          "category": "FC"
+        },
+        {
+          "courseCode": "XT3951",
+          "courseName": "Internet of Things",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3901",
+          "courseName": "Advanced Database Technology and Design",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XC3951",
+          "courseName": "Multimedia Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3961",
+          "courseName": "Internet of Things Laboratory",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "XT3911",
+          "courseName": "Creative and Innovative Project",
+          "category": "EEC"
+        }
+      ],
+      "10": [
+        {
+          "courseCode": "XT3011",
+          "courseName": "Project Work",
+          "category": "EEC"
+        }
+      ]
+    }
+  },
+  "MCA": {
+    "department": "MCA",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udpg_2023/FICE/M.C.A.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "MA3152",
+          "courseName": "Advanced Applied Mathematics",
+          "category": "FC"
+        },
+        {
+          "courseCode": "RM3151",
+          "courseName": "Research Methodology and IPR",
+          "category": "RMC"
+        },
+        {
+          "courseCode": "CA3101",
+          "courseName": "Data Structures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3102",
+          "courseName": "Database Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3103",
+          "courseName": "Java Programming",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3104",
+          "courseName": "Computer Networks and Management",
+          "category": "PCC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "CA3201",
+          "courseName": "Advanced Software Engineering",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3202",
+          "courseName": "Python Programming with Data Science",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3203",
+          "courseName": "Full Stack Software Development",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3204",
+          "courseName": "Internet of Things",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3205",
+          "courseName": "Design and Analysis of Algorithms",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3211",
+          "courseName": "Mobile Application Development Laboratory",
+          "category": "EEC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "CA3301",
+          "courseName": "Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3302",
+          "courseName": "Cloud Computing Techniques",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CA3303",
+          "courseName": "Cryptography and Security",
+          "category": "PCC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "CA3411",
+          "courseName": "Project Work",
+          "category": "EEC"
+        }
+      ]
+    }
+  },
+  "M.E CSE": {
+    "department": "M.E CSE",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udpg_2023/FICE/M.E.CSE.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "MA3154",
+          "courseName": "Advanced Mathematics for Scientific Computing",
+          "category": "FC"
+        },
+        {
+          "courseCode": "RM3151",
+          "courseName": "Research Methodology and IPR",
+          "category": "RMC"
+        },
+        {
+          "courseCode": "CP3151",
+          "courseName": "Data Structures and Algorithms",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3153",
+          "courseName": "Multicore Architectures",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3154",
+          "courseName": "Networking Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3152",
+          "courseName": "Database Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3161",
+          "courseName": "Data Structures and Algorithms Laboratory",
+          "category": "PCC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "CP3251",
+          "courseName": "Advanced Operating Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3201",
+          "courseName": "Compiler Optimization Techniques",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3252",
+          "courseName": "Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3261",
+          "courseName": "Professional Practices",
+          "category": "EEC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "CP3351",
+          "courseName": "Cyber Security",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "CP3311",
+          "courseName": "Project Work I",
+          "category": "EEC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "CP3411",
+          "courseName": "Project Work II",
+          "category": "EEC"
+        }
+      ]
+    }
+  },
+  "M.Tech Information Technology": {
+    "department": "M.Tech Information Technology",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udpg_2023/FICE/M.Tech.IT.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "MA3160",
+          "courseName": "Probability and Statistical Methods",
+          "category": "FC"
+        },
+        {
+          "courseCode": "RM3151",
+          "courseName": "Research Methodology and IPR",
+          "category": "RMC"
+        },
+        {
+          "courseCode": "IF3151",
+          "courseName": "Advanced Data Structures and Algorithms",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IF3101",
+          "courseName": "Full Stack Technologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IF3152",
+          "courseName": "Advanced Database Management Systems",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IF3102",
+          "courseName": "High Performance Computing",
+          "category": "PCC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "IF3201",
+          "courseName": "Software Design Methodologies",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IF3202",
+          "courseName": "Fundamentals of Machine Learning",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IF3203",
+          "courseName": "Information Security",
+          "category": "PCC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "IF3351",
+          "courseName": "Next Generation Wireless Networks",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "IF3311",
+          "courseName": "Project Work I",
+          "category": "EEC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "IF3411",
+          "courseName": "Project Work II",
+          "category": "EEC"
+        }
+      ]
+    }
+  },
+  "MBA": {
+    "department": "MBA",
+    "regulation": "Anna University Regulations 2023",
+    "sourceUrl": "https://cac.annauniv.edu/uddetails/udpg_2023/MBA/1.%20MBA%20GM%202023.pdf",
+    "semesters": {
+      "1": [
+        {
+          "courseCode": "BA3101",
+          "courseName": "Management Principles and Organizational Behavior",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3102",
+          "courseName": "Quantitative Techniques",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3103",
+          "courseName": "Marketing Management",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3104",
+          "courseName": "Accounting for Managers",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3151",
+          "courseName": "Managerial Economics",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3105",
+          "courseName": "Legal Systems in Business",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3106",
+          "courseName": "Information Systems for Business",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3161",
+          "courseName": "Soft Skills I - Executive Communication",
+          "category": "EEC"
+        }
+      ],
+      "2": [
+        {
+          "courseCode": "BA3201",
+          "courseName": "Applied Operations Research",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3202",
+          "courseName": "Human Resource Management",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3203",
+          "courseName": "Research Methods in Business",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3251",
+          "courseName": "Operations Management",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3204",
+          "courseName": "Financial Management",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3205",
+          "courseName": "Entrepreneurship Development",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3211",
+          "courseName": "Soft Skills II - Community Engagement",
+          "category": "EEC"
+        },
+        {
+          "courseCode": "BA3212",
+          "courseName": "Soft Skills III - Computing Skills Laboratory",
+          "category": "EEC"
+        }
+      ],
+      "3": [
+        {
+          "courseCode": "BA3301",
+          "courseName": "Strategic Management",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3302",
+          "courseName": "International Business",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3311",
+          "courseName": "Soft Skills IV - Leadership and Team Building Skills",
+          "category": "EEC"
+        },
+        {
+          "courseCode": "BA3312",
+          "courseName": "***Summer Internship",
+          "category": "EEC"
+        },
+        {
+          "courseCode": "BA3106",
+          "courseName": "Information Systems for Business",
+          "category": "PCC"
+        }
+      ],
+      "4": [
+        {
+          "courseCode": "BA3411",
+          "courseName": "Project Work",
+          "category": "EEC"
+        },
+        {
+          "courseCode": "BA3203",
+          "courseName": "Research Methods in Business",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3205",
+          "courseName": "Entrepreneurship Development",
+          "category": "PCC"
+        }
+      ],
+      "5": [
+        {
+          "courseCode": "BA3301",
+          "courseName": "Strategic Management",
+          "category": "PCC"
+        },
+        {
+          "courseCode": "BA3312",
+          "courseName": "Summer Internship",
+          "category": "EEC"
+        }
+      ],
+      "6": [
+        {
+          "courseCode": "BA3411",
+          "courseName": "Project Work",
+          "category": "EEC"
+        }
+      ]
+    }
+  }
+}
